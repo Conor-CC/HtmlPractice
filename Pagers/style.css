@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20%;
+}
+
+p {
+    color: green;
+    font-family: Garuda;
+    font-size: 150%;
+}
+
+p.styles {
+    border: 10px solid black;
+    padding: 20px;
+    margin: 10%;
+    color: black;
+}
+
+p.shite {
+    border: 10px solid red;
+    color: brown;
+}
+
+#pinkTheme {
+    color: palevioletred;
+    font-size: 200%;
+}
+
